@@ -34,6 +34,7 @@ _______
 - `./data/`: Contains preprocessed datasets for pretraining
 - `./configs/`: Configuration of the model before pretraining
 - `./checkpoints/`: Saved pretrained models
+- `./results/`: Contains evaluation results and pretraining results
 
 _______
 
