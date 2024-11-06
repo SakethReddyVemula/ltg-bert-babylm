@@ -15,7 +15,7 @@ _______
 
 <br>
 
-This is the adapted version of the official repository for EACL paper about pre-training language models on a representative 100M-word corpus. Proposed model has data-efficient LM architecture (LTG-BERT) that outperforms the original BERT model.
+This is the adapted version of the official repository for EACL paper about pre-training language models on a representative 100M-word corpus. Proposed model has data-efficient LM architecture (LTG-BERT) that outperforms the original BERT model. These scripts are used for evaluating different tokenizer on langauge modeling.
 
 _______
 
