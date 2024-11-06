@@ -40,7 +40,7 @@ _______
 
 <br>
 
-## References
+## Credits
 ```bibtex
 @inproceedings{samuel-etal-2023-trained,
     title = "Trained on 100 million words and still in shape: {BERT} meets {B}ritish {N}ational {C}orpus",
