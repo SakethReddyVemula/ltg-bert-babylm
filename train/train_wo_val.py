@@ -24,7 +24,7 @@ from dataset import Dataset
 
 if int(os.environ["SLURM_PROCID"]) == 0:
     import wandb
-#    os.environ["WANDB_API_KEY"] = "c8a7a539cb5fed3df89b21d71956ca6b4befd2a5" # set this if not there in script
+#    os.environ["WANDB_API_KEY"] = "" # set this if not there in script
 
 os.environ["WORLD_SIZE"] = str(torch.cuda.device_count())
 
