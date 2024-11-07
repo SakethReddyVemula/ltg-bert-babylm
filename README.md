@@ -21,6 +21,9 @@ _______
 
 <br>
 
+## Workflow
+![Workflow Diagram](workflow.png)
+
 ## Content of this repository
 
 - `./train/model.py`: HuggingFace-compatible wrapper for LTG-BERT
