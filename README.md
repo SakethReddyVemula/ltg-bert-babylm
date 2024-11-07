@@ -1,4 +1,4 @@
-<h2 align="center"><b><h3>LTG-BERT-BABYLM: Pretraining and Fine Tuning</h3></b></h2><br>
+<h2 align="center"><b><h3>LTG-BERT-BABYLM: Pretraining and Fine Tuning</h3><h3>Evaluating Tokenization Methods</h3></b></h2><br>
 
 <p align="center">
   <a href="https://github.com/ltgoslo/ltg-bert/tree/main"><b>Original Repository</b></a><br>
